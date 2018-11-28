@@ -18,13 +18,14 @@ import * as _ from 'lodash'
 
 
 /**
- * @typedef {import('./lib/FileWithJsDocTypes').ResultDTO} ResultDTO
+ * @typedef {import('../lib/FileWithJsDocTypes').ResultDTO} ResultDTO
  */
 
  /**
   * @type {ResultDTO}
   */
 const test
+
 
 
 export default {
